@@ -61,6 +61,9 @@ input:focus{
     .zero{
         width: 15vw !important;
     }
+    h1{
+        font-size: larger;
+    }
 }
 @media screen and (max-width:300px){
     .button{
@@ -73,5 +76,8 @@ input:focus{
     }
     .zero{
         width: 20.5vw !important;
+    }
+    h1{
+        font-size:medium;
     }
 }
